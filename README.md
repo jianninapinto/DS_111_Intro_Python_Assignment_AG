@@ -14,6 +14,6 @@
 
 ## Authors
 
-- [@jianninapinto](https://www.github.com/jiannina.pinto)
+- [@jianninapinto](https://www.github.com/jianninapinto)
 
 
